@@ -2,9 +2,13 @@
 Machine learning model for predicting the effection of point mutation to protein-protein binding free energy 
 
 Requirements
+
 tensorflow > 1.4 or 2.x
+
 keras 2.4.3
+
 naccess
+
 python 3
 
 Usage
