@@ -1,5 +1,5 @@
 # Deepbind
-Machine learning model for predicting the effection of point mutation to protein-protein binding free energy 
+Machine learning model for predicting the effect of point mutation to protein-protein binding free energy 
 
 Requirements:
 
