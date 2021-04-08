@@ -1,7 +1,7 @@
 # Deepbind
 Machine learning model for predicting the effection of point mutation to protein-protein binding free energy 
 
-Requirements
+Requirements:
 
 tensorflow > 1.4 or 2.x
 
@@ -11,7 +11,9 @@ naccess
 
 python 3
 
-Usage
+
+
+Usage:
 1. Install naccess (http://www.bioinf.manchester.ac.uk/naccess)
 
 tar -zxvf naccess.tar.gz
