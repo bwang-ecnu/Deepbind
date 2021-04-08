@@ -11,6 +11,7 @@ Usage
 1. Install naccess (http://www.bioinf.manchester.ac.uk/naccess)
 
 tar -zxvf naccess.tar.gz
+
 Then change the second line in 'naccess' file: set set EXE_PATH = /home/bwang/github/Naccess(your path of Naccess)
 
 2. Make predictoin
